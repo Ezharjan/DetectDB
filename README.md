@@ -1,4 +1,4 @@
-# [Sound Level Detector](https://ezharjan.github.io/DetectDB/)
+# [Sound Level Detector](https://ezharjan.github.io/DetectVolumn/)
 
 A simple web interface is available for estimating the noise level in decibels. The values provided are not precise, but they primarily indicate variations in noise levels over a short period of time.
 
